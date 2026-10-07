@@ -1,6 +1,6 @@
 # Exercícios 2 e 6 - Linguagem C
 
-### Professora Karina Alves de Melo
+### Professora Karina Alves de Melo - 06/10/2026
 
 Repositório com a resolução dos exercícios 2 e 6 desenvolvidos em **linguagem C**.
 
